@@ -51,9 +51,9 @@ Step 5  一致性核验    八大失真模式逐项检查 → 溯源报告
 
 ```bash
 # Windows
-git clone <repo-url> "%USERPROFILE%\.claude\skills\source-tracer"
+https://github.com/Kiwifruit-Collab/source-tracer/edit/main/README.md
 # macOS / Linux
-git clone <repo-url> ~/.claude/skills/source-tracer
+(https://github.com/Kiwifruit-Collab/source-tracer/edit/main/README.md)
 ```
 
 Trae 用户：将本仓库放入 `~/.trae-cn/skills/` 目录。
