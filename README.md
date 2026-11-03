@@ -49,11 +49,10 @@ Step 5  一致性核验    八大失真模式逐项检查 → 溯源报告
 
 ### Claude Code / Trae（原生支持）
 
-```bash
 # Windows
-https://github.com/Kiwifruit-Collab/source-tracer/edit/main/README.md
+git clone https://github.com/Kiwifruit-Collab/source-tracer "%USERPROFILE%\.claude\skills\source-tracer"
 # macOS / Linux
-(https://github.com/Kiwifruit-Collab/source-tracer/edit/main/README.md)
+git clone https://github.com/Kiwifruit-Collab/source-tracer ~/.claude/skills/source-tracer
 ```
 
 Trae 用户：将本仓库放入 `~/.trae-cn/skills/` 目录。
